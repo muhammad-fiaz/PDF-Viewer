@@ -2,6 +2,8 @@
 
 PDF Viewer is an Android application built with Kotlin and Android Studio that allows users to view PDF documents on their devices.
 
+> This Project is Still under active development.
+
 ## Features
 
 - View PDF files
